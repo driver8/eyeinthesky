@@ -1,4 +1,3 @@
-
 <?php
 require_once('vksession.class.php');
 
