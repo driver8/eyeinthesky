@@ -21,12 +21,12 @@ require_once("mycurl.class.php");
 //             request.BeginGetRequestStream(R
 
 //android
-define('CLIENT_SECRET','hHbZxrka2uZ6jB1inYsH');
-define('CLIENT_ID','2274003');
+define('CLIENT_SECRET','HbZxrka2uZ6jB1inYsHh');
+define('CLIENT_ID','2740032');
 
 //iphone
-// define('CLIENT_SECRET','VeWdmVclDCtn6ihuP1nt');
-// define('CLIENT_ID','3140623');
+// define('CLIENT_SECRET','eWdmVclDCtn6ihuP1ntV');
+// define('CLIENT_ID','1406233');
 
 // unimproved
 // define('CLIENT_SECRET','wCCY5i7yUOL92yNB2N9a');
