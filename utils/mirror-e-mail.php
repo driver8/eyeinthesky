@@ -424,7 +424,7 @@ function imap_mimetext($value)
 		$mimeValue = '';
 		foreach($elements as $el)
 		{
-			if (strtolower(trim($el->charset) == 'koi'))
+			if (strtolower(trim($el->charset) == 'koi8'))
 			{
 				$el->charset = 'koi8-r';
 			}
